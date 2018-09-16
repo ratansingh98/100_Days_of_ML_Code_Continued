@@ -17,3 +17,7 @@
 **Today's Progress** : Studied a book and worked on hackathon projects.
 
 **Link of Book:**   [Link](https://www.flipkart.com/introduction-artificial-neural-networks-pb-1st/p/itmdytkttpthxyvj?gclid=CjwKCAjwrNjcBRA3EiwAIIOvq__cArGHYFr5mG-ziBR7Shpw9uo8kp49CE56Tt4q2FcyHFmGTjDpPRoCj9QQAvD_BwE&pid=9788125914259&lid=LSTBOK9788125914259XMMQX6&marketplace=FLIPKART&cmpid=content_book_8965229628_gmc_pla&tgi=sem,1,G,11214002,g,search,,291072750917,1o2,,,c,,,,,,,&s_kwcid=AL!739!3!291072750917!!!g!295092701166!&ef_id=W1gwPwAAAIMICRCq:20180910151712:s)
+
+## Day 65 - 70 : Sep 11-15 , 2018
+ 
+**Today's Progress** : Completed Markov Decision Processes of Move 37 and worked on some projects.
