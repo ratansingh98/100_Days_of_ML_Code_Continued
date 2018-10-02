@@ -21,3 +21,7 @@
 ## Day 65 - 70 : Sep 11-15 , 2018
  
 **Today's Progress** : Completed Markov Decision Processes of Move 37 and worked on some projects.
+
+## Day 70 - 75 : Sep 28- Oct 2 , 2018
+ 
+**Today's Progress** : Worked on IBM hackathon project named Help with my mood.
