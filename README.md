@@ -25,3 +25,7 @@
 ## Day 70 - 75 : Sep 28- Oct 2 , 2018
  
 **Today's Progress** : Worked on IBM hackathon project named Help with my mood.
+
+## Day 76 - 81 : Oct 3- Oct 8 , 2018
+ 
+**Today's Progress** : Studied about Advanced CV using Tensorflow.
