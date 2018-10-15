@@ -29,3 +29,7 @@
 ## Day 76 - 81 : Oct 3- Oct 8 , 2018
  
 **Today's Progress** : Studied about Advanced CV using Tensorflow.
+
+## Day 81 - 85 : Oct 9- Oct 12 , 2018
+ 
+**Today's Progress** : Worked on Self driving car.
