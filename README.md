@@ -32,7 +32,12 @@
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/Computer%20Vision)
 
-
 ## Day 81 - 85 : Oct 9- Oct 12 , 2018
  
 **Today's Progress** : Worked on Self driving car.
+
+## Day 86 - 89  : Oct 13- Oct 16 , 2018
+ 
+**Today's Progress** : Studied more about Reinforcement Learning.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/Computer%20Vision)
