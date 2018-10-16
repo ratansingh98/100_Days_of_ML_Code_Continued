@@ -40,4 +40,4 @@
  
 **Today's Progress** : Studied more about Reinforcement Learning.
 
-**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/Computer%20Vision)
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/More%20About%20Reinforcement%20Learning)
