@@ -41,3 +41,9 @@
 **Today's Progress** : Studied more about Reinforcement Learning.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/More%20About%20Reinforcement%20Learning)
+
+## Day 90  : Oct 25 , 2018
+ 
+**Today's Progress** : Studied about Practical Reinforcement Learning.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/Practical%20Reinforcement%20Learning)
