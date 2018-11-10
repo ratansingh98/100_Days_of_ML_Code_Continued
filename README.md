@@ -47,3 +47,9 @@
 **Today's Progress** : Studied about Practical Reinforcement Learning.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/Practical%20Reinforcement%20Learning)
+
+## Day 91 - 95  : Oct 26 - 30 , 2018
+ 
+**Today's Progress** : Studied about mastering Opencv.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/mastering%20opencv)
