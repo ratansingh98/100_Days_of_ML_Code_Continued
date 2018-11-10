@@ -53,3 +53,9 @@
 **Today's Progress** : Studied about mastering Opencv.
 
 **Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/mastering%20opencv)
+
+## Day 96 - 100  : Nov 6 - 10 , 2018
+ 
+**Today's Progress** : Studied about mastering Opencv part 2.
+
+**Link of Work:**   [Link](https://github.com/ratansingh98/100_Days_of_ML_Code_Continued/tree/master/Days/mastering%20opencv%202)
